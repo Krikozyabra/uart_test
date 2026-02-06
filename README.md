@@ -1,8 +1,10 @@
-# This is test the rs232 in duplex mode
+# This is test the uart in duplex mode
 
 MTUs: stm32f103c8t6 and esp32
 
-IDE: Keil
+IDE: 
+1) Keil for stm32
+2) VSCode + esp-idf 5.5.2 for esp32
 
 Langs: C99/C++17
 
